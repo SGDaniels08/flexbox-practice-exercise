@@ -43,3 +43,18 @@ nav {
 .social-media {
     padding: 5px 9px;
 }
+
+/*
+** FLEXBOX CHALLENEGE
+** Complete all of the following challenges using flexbox
+*/
+
+/* Put the company logo on the left side of the header and the nav on the right */
+
+/* Distribute the navigation items in a horizontal line */
+
+/* Distribute cards in 'main' horizontally and make sure they all have the same height */
+
+/* Distribute cards in aside vertically and make sure any space left in the container is around the elements */
+
+/* In the footer, center the copyright and place the social-media links to the right */
