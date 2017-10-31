@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+* {
+    font: 400 14px 'Roboto';
+}
+aside {
+    background-color: #99add1;
+}
+footer {
+    background-color: #1add39;
+}
+header {
+    background-color: #ff6;
+}
+main {
+    background-color: #39add1;
+}
+
+.logo {
+    color: navy;
+    font-size: 24px;
+    text-decoration: none;
+}

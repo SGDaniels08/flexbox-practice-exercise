@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+aside,
+footer,
+header,
+main {
+    padding: 17px;
+}
+footer {
+    grid-column: 1 / -1;
+}
+header {
+    grid-column: 1 / -1;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-template-rows: 75px auto 120px;
+    height: 100vh;
+}
