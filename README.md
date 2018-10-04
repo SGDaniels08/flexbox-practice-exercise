@@ -1,15 +1,9 @@
 # Flexbox Practice Exercise
 
-## Columbus/Flexcode Directions
+## Installation Instructions
 
-1.  Clone this project to your ~/wcci/code directory
-1.  Open project inside of Sublime.
-1.  Complete tasks listed inside of layout.css
-1.  Stretch: Break out repeating values into css variables
-
-## Cleveland Directions
-
-1.  Clone this project into your ~/source/repos directory
-1.  Open project in Visual Studio 2017
-1.  Complete tasks listed inside of layout.css
-1.  Stretch: Break out repeating values into css variables
+1. Clone the project to your `wcci/code` directory
+1. `cd` into the project directory
+1. `gradle eclipse`
+1. Pending a Successful Build, import project into Eclipse
+1. Follow the instructions in the comments of `static/css/layout.css`
